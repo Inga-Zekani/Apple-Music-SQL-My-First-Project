@@ -22,9 +22,26 @@ Tools & Technologies Used
 - Using Common Table Expressions (CTEs) for cleaner queries
 - Basic analytical queries for insights
 
-## Example Analysis Questions
+## Problem Statement
 
-1. Which songs and artists have the highest number of streams?
-2. How do Free and Premium users differ in listening behavior?
-3. Which genres are most popular by country?
+Raw music streaming data is often stored in CSV files, which makes it difficult to efficiently analyze user behavior, trends, and performance metrics at scale.
+Without a structured database and well-written SQL queries, it is challenging to answer key analytical questions such as:
+
+### Example Analysis Questions
+
+1. Which songs and artists on apple music are most streamed in the top 5 and bottom 5?
+2. How does listening behavior differ between Free and Premium users?
+3. Which genres are most popular across different countries?
 4. What trends can be observed over time?
+
+The problem is to transform raw streaming data into a structured SQL database and use SQL queries to extract meaningful insights that support data-driven decision-making.
+
+## Solution Approach
+
+The data was imported into a MySQL database and analyzed using SQL queries. By structuring the data into a relational table and applying filtering, aggregation, and CTEs, meaningful insights were extracted regarding listening behavior, popular genres, and subscription patterns.
+
+---
+
+# Questions I Wanted To Answer From The Dataset:
+
+## 1. Which songs and artists on apple music are most streamed in the top 5 and bottom 5?
