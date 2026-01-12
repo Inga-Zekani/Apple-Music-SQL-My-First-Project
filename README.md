@@ -69,3 +69,11 @@ The data was imported into a MySQL database and analyzed using SQL queries. By s
 
 Premium users generated **1,670 streams**, compared to **305 streams** from Free users.
 Premium users listened for **5,190 minutes**, while Free users listened for **1,035 minutes**.
+
+## 3. Which genres are most popular across different countries? 
+
+### Querie:
+![Top 5](./Number%20Three%20Querie.png) 
+
+### Results:
+![Top 5](./Number%20Three%20Results.png) 
