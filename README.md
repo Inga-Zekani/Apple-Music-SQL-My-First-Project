@@ -59,3 +59,10 @@ The data was imported into a MySQL database and analyzed using SQL queries. By s
 ![Top 5](./Bottom%20Table.png)
 
 ## 2. How does listening behavior differ between Free and Premium users?
+#### Querie:
+
+![Top 5](./Number%20Two%20Querie.png) 
+
+#### Results:
+
+![Top 5](./Number%20Two%20Results.png) 
