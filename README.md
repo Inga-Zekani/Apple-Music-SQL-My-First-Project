@@ -2,7 +2,7 @@
 This project is a SQL-based data analysis project that explores user listening behavior on a synthetic Apple Music streaming dataset. The dataset was manually created for learning and portfolio purposes and does not contain any real Apple Music data. The main goal of this project is to practice SQL skills used in data analysis, including data exploration, aggregation, filtering, and trend analysis.
 Tools & Technologies Used
 
-![Career Development Screenshot](./apple%20music%201.png)
+![Apple Music Logo](./Apple%20Music%.png)
 
 # MySQL
 
