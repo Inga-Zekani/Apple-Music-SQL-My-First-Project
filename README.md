@@ -66,3 +66,6 @@ The data was imported into a MySQL database and analyzed using SQL queries. By s
 #### Results:
 
 ![Top 5](./Number%20Two%20Results.png) 
+
+Premium users generated **1,670 streams**, compared to **305 streams** from Free users.
+Premium users listened for **5,190 minutes**, while Free users listened for **1,035 minutes**.
