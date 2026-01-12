@@ -46,3 +46,5 @@ The data was imported into a MySQL database and analyzed using SQL queries. By s
 
 ## 1. Which songs and artists on apple music are most streamed in the top 5 and bottom 5? 
 
+#### Top 5:
+![Top 5](./Top%205%20Streamed.png)
