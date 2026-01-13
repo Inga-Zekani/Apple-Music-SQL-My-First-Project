@@ -79,3 +79,11 @@ Premium users listened for **5,190 minutes**, while Free users listened for **1,
 ![Top 5](./Number%20Three%20Results.png) 
 
 ## 4. What trends can be observed over time?
+
+#### Query:
+![Top 5](./Number%20Four%20Query.png) 
+
+#### Results:
+![Top 5](./Number%20Four%20Results.png) 
+
+**Premium users** decrease over time along with total minutes listened while, **Free users** are expected to increase as time goes.
