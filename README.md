@@ -59,7 +59,7 @@ The data was imported into a MySQL database and analyzed using SQL queries. By s
 ![Top 5](./Bottom%20Table.png)
 
 ## 2. How does listening behavior differ between Free and Premium users?
-#### Querie:
+#### Query:
 
 ![Top 5](./Number%20Two%20Querie.png) 
 
@@ -72,8 +72,10 @@ Premium users listened for **5,190 minutes**, while Free users listened for **1,
 
 ## 3. Which genres are most popular across different countries? 
 
-### Querie:
-![Top 5](./Number%20Three%20Querie.png) 
+#### Query:
+![Top 5](./Number%20Three%20Query.png) 
 
-### Results:
+#### Results:
 ![Top 5](./Number%20Three%20Results.png) 
+
+## 4. What trends can be observed over time?
