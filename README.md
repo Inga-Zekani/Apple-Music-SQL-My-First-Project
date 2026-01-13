@@ -11,6 +11,7 @@ Tools & Technologies Used
 1. MySQL Workbench
 2. CSV data format
 3. SQL (DDL & DML)
+4. Microsoft PowerBI
 
 ## Key SQL Concepts Demonstrated
 
@@ -87,3 +88,18 @@ Premium users listened for **5,190 minutes**, while Free users listened for **1,
 ![Top 5](./Number%20Four%20Results.png) 
 
 **Premium users** decrease over time along with total minutes listened while, **Free users** are expected to increase as time goes.
+
+# PowerBI Visualisation
+
+## 1. Free users vs Premium users
+![Top 5](./Free%20vs%20Premium.png) 
+
+---
+
+## 2. Genres are most popular across different countries
+![Top 5](./Across%20Countries.png) 
+
+---
+
+## 3. Trends can be observed over time
+![Top 5](./Trends.png) 
